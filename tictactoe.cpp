@@ -1,10 +1,3 @@
-/*
-    Tic Tac Toe - Console Mini Game
-    --------------------------------
-    Demonstrates: loops, 2D arrays, conditional logic, functions,
-    dynamic board redraw, win/loss/draw detection, and replay.
-*/
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
